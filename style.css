@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Montserrat, sans-serif;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    background-color: #942911;
+}
+
+h2 {
+    background-color: #adbeca;
+}
+
+#pierwszy {
+    background-color: #c7c751;
+}
+
+#drugi {
+    background-color: #60656F;
+}
+
+#jeden {
+    color: #9D8420;
+}
+
+#dwa {
+    color: #C49991;
+}
+
+#trzy {
+    color: #279AF1;
+}
+
+#cztery {
+    color: #60656F;
+}
+
+#pięć {
+    color: #095086;
+}
